@@ -1,3 +1,7 @@
 bananas
 naranjas
 peras
+berenjenas
+uvas
+paltas
+manzanas
